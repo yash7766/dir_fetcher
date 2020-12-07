@@ -1,11 +1,11 @@
-# web_snatcher
-Web_snatcher is a web crawler that can be used to spider the complete website.
+# dir_fetcher
+Dir_fetcher is a web crawler that can be used to spider the complete website.
 
 Installation:
 
-$git clone https://github.com/Dineshboss/web_snatcher.git
+$git clone https://github.com/Dineshboss/dir_fetcher.git
 
-$ cd web_snatcher
+$ cd dir_fetcher
 
 $ python crawler.py -u url
 
